@@ -1,0 +1,17 @@
+{
+  "name": "lets-chat",
+  "version": "1.0.0",
+  "description": "A ChatBot for Discord",
+  "main": "index.js",
+  "repository": "",
+  "author": "Gopesh Sharma <gopesh9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discordie": "^0.11.0",
+    "dotenv": "^5.0.1",
+    "natural": "^0.6.1"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "greet": {
+        "questions": [
+            "introduce yourself",
+            "sup",
+            "hi",
+            "hello",
+            "aka",
+            "intro",
+            "hey",
+            "good morning",
+            "good evening"
+        ],
+        "answer": "Hello, I am aka, ask me anything"
+    }
+}
