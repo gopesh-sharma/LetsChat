@@ -12,12 +12,8 @@ Version - v1.0.0
 
 In this version it takes a simple JSON file, add the questions as a document and then give answer based on the intent of the sentence a user types. The problem with this approach is that the reply is not natural as it will always give the same answer to all the people who asks the same question.
 
-Download : https://github.com/gopesh-sharma/LetsChat/releases/tag/v1.0.0
-
 Version - v1.1.0
 
 This version is little better in terms of giving different reply, as I have trained the model with different questions and its probable answers. I have used two trained-data.csv for training it with questions and intent whereas probable-answer.csv will have the answers based on the intent.
-
-Download : https://github.com/gopesh-sharma/LetsChat/releases/tag/v1.1.0
 
 
