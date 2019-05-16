@@ -8,12 +8,16 @@ I am using natural npm package for Natural Language Processing. As per the packa
 
 Blog Post : https://www.gopeshsharma.dev/blog/discord-chatbot-using-machine-learning/
 
-Version - v1.0.0
+### Version - v1.0.0
 
 In this version it takes a simple JSON file, add the questions as a document and then give answer based on the intent of the sentence a user types. The problem with this approach is that the reply is not natural as it will always give the same answer to all the people who asks the same question.
 
-Version - v1.1.0
+### Version - v1.1.0
 
 This version is little better in terms of giving different reply, as I have trained the model with different questions and its probable answers. I have used two trained-data.csv for training it with questions and intent whereas probable-answer.csv will have the answers based on the intent.
+
+A Basic Chat looks like:
+
+![discord](https://user-images.githubusercontent.com/7776994/57831059-b2043080-77d1-11e9-8596-a149cab80cad.PNG)
 
 
