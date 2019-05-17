@@ -5,7 +5,7 @@ const Events = Discordie.Events;
 const client = new Discordie();
 const { NlpManager } = require('node-nlp');
 const manager = new NlpManager({ languages: ['en'] });
-const trainnlp = require('./data/train-nlp');
+const trainnlp = require('./../data/train-nlp');
 const threshold = 0.5;
 const modelPath = 'model/model.nlp';
 const trainedDataPath = 'data/qatraining1.csv';
@@ -19,6 +19,7 @@ client.connect({
     token: token
 });
 client.Dispatcher.on(Events.GATEWAY_READY, async e => {
+    console.log('Starting')
     let jsonData = await parseCSV(trainedDataPath);
     trainData(jsonData);
     console.log('Connected as: ' + client.User.username);
@@ -76,7 +77,6 @@ async function train(jsonData) {
 async function handleMessage(e, message) {
   const response = await manager.process('en', message); 
   const answer = response.score > threshold && response.answer ? response.answer: "Sorry, I don't know what do you mean";
-  console.log(response);
   const unmatcheResponse = response.score < threshold ? `Message : ${message} - response : ${answer}\n` : '';
   fs.appendFile(unmatchedFile, unmatcheResponse, function () { });
   e.message.channel.sendMessage(answer);
