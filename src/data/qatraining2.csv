@@ -1,0 +1,723 @@
+﻿test,intent,question,answer,counter
+,Alessandro_Volta,How old was Alessandro Volta when he died?, 82,1
+,Alessandro_Volta,"How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?",215,2
+,Alessandro_Volta,For how many years did Alessandro Volta live?,53,3
+,Alessandro_Volta,His passion been always the study of what?,Electricity,4
+,Alessandro_Volta,When did lombardy come under Napoleon`s rule?,From 1796 to 1815,5
+,Alessandro_Volta,Is Volta buried in the city of Pittsburgh?,no,6
+,Alessandro_Volta,Did Alessandro Volta live to be 80 years old?,no,7
+,Alessandro_Volta,What was Alessandro Volta`s profession?,physisist,8
+,Alessandro_Volta,Where did Volta enter retirement?,Spain,9
+,Alessandro_Volta,What is the battery made by Volta credited to be?,the first cell,10
+,Alessandro_Volta,Where did he publish his invention of the Voltaic pile battery?,the Philosophical Transactions of the Royal Society,11
+,Alessandro_Volta,What important electrical unit was named in honor of Volta?,the volt,12
+,Alessandro_Volta,What important electrical unit was named in honor of Volta?,volt,13
+,Alessandro_Volta,Was Volta an Italian physicist?,yes,14
+,Alessandro_Volta,Did Volta have a passion for the study of electricity?,yes,15
+,Alessandro_Volta,Is it a disadvantage for something to be unsafe to handle?,yes,16
+,Alessandro_Volta,Was Lombardy under Napoleon's rule in 1800?,yes,17
+,Alessandro_Volta,Was the Italian 10.000 lira banknote created before the euro?,yes,18
+,Alessandro_Volta,Is the electrolyte sulphuric acid?,Yes,19
+,Alessandro_Volta,Is volta buried in the city  of Como?,Yes,20
+,Alessandro_Volta,Was his 1800  paper written in French?,Yes,21
+,Alessandro_Volta,"Before 1796, was Lombardy ruled by Austria?",yes,22
+,Alessandro_Volta,Did he receive the Society`s 1794 Copley Medal?,Yes,23
+,Alessandro_Volta,Did he experiment with individual cells?,Yes,24
+,Alessandro_Volta,Did he become professor of experimental physics at the University of Pavia?,Yes,25
+,Alessandro_Volta,Is it true that his passion been always the study of electricity?,Yes,26
+,Alessandro_Volta,Is it true that Volta married the daughter of Count Ludovico Peregrini?,Yes,27
+,Alessandro_Volta,Is it true that he published his invention of the Voltaic pile battery?,Yes,28
+,Amedeo_Avogadro,In what year did Avogadro stop teaching at Turin University?,1823,29
+,Amedeo_Avogadro,In what year did Avogadro stop teaching at Turin University?,1853,30
+,Amedeo_Avogadro,How many years ago was it when he became a professor of physics at the University of Turin?,189,31
+,Amedeo_Avogadro,What is Avogadro's number?,6.02214199x10 23,32
+,Amedeo_Avogadro,What is Amedeo Avogadro?,A person.,33
+,Amedeo_Avogadro,What is Amedeo Avogadro`s first name?,Amedeo,34
+,Amedeo_Avogadro,What is Amedeo Avogadro`s last name?,Avogadro,35
+,Amedeo_Avogadro,Loschmidt calculated first the value of what?,Avogadro's number,36
+,Amedeo_Avogadro,What is Avogadro most noted for?,contributions to the theory of molarity and molecular weight,37
+,Amedeo_Avogadro,What subject did Avogadro study first?,ecclesiastical law,38
+,Amedeo_Avogadro,Where is Amedeo Avogadro from?,Italy.,39
+,Amedeo_Avogadro,Did Avogadro live in England?,No,40
+,Amedeo_Avogadro,Was Amedeo Avogadro born in North America?,no,41
+,Amedeo_Avogadro,What was Amedeo Avogadro`s profession?,professor of physics,42
+,Amedeo_Avogadro,How many children did Avogadro have?,six,43
+,Amedeo_Avogadro,What was Amedeo Avogadro`s birthplace?,Turin,44
+,Amedeo_Avogadro,Where was Avogadro a professor of physics?,University of Turin,45
+,Amedeo_Avogadro,Was Amedeo Avogadro Italian?,Yes,46
+,Amedeo_Avogadro,Did Amedeo Avogadro graduate?,Yes,47
+,Amedeo_Avogadro,Was King Victor  Emmanuel  III there to pay  homage  to Avogadro?,Yes,48
+,Amedeo_Avogadro,"In fact, was Avogadro `s  famous  1811  paper written in French . )",Yes,49
+,Amedeo_Avogadro,Is avogadro `s  number commonly used to compute  the results  of chemical reactions?,Yes,50
+,Amedeo_Avogadro,"Hence, can relative molecular  masses be calculated from the masses  of gas samples?",Yes,51
+,Amedeo_Avogadro,Did he publish his work?,Yes,52
+,Amedeo_Avogadro,Is it true that loschmidt calculated first the value of Avogadro number?,Yes,53
+,Amedeo_Avogadro,"Hence , can relative molecular masses be calculated from the masses of gas samples ?",yes,54
+,Amedeo_Avogadro,Did Avogadro submit his poem?,Yes.,55
+,Amedeo_Avogadro,"Can the title of this famous 1811 paper be roughly translated into English as ""essay on determining the Relative Masses of the Elementary Molecules of Bodies"" ?",Yes.,56
+,Anders_Celsius,Which temperature scale did Celsius propose?, the Celsius temperature scale ,57
+,Anders_Celsius,When did Anders Celcius publish his observations on the aurora borealis?,1733,58
+,Anders_Celsius,When did Anders Celcius publish his observations on the aurora borealis?,1733 ,59
+,Anders_Celsius,How old was Celsius when he died?,42,60
+,Anders_Celsius,How old was Anders Celsius when he died?,42,61
+,Anders_Celsius,What is temperature would water have to be to be halfway between its standard boiling and freezing point?,50,62
+,Anders_Celsius,What is the boiling point of water dependent on?,atmospheric pressure,63
+,Anders_Celsius,Which temperature scale did Celsius propose?,Celcius,64
+,Anders_Celsius,What is Anders Celsius`s last name?,Celsius,65
+,Anders_Celsius,What did Anders Celsius determine about the boiling of water?,dependence with atmospheric pressure,66
+,Anders_Celsius,What did Anders Celsius determine about the boiling of water?,He determined the dependence of the boiling of water with atmospheric pressure.,67
+,Anders_Celsius,He published a collection of what?,observations,68
+,Anders_Celsius,What was Anders Celsius`s profession?,professor of astronomy,69
+,Anders_Celsius,What is the difference between Celsius' original temperature scale and the one we use today?,scale was reversed ,70
+,Anders_Celsius,"Whad did Celsius report in his paper ""Observations of two persistent degrees on a thermometer""?",the freezing point is independent of latitude,71
+,Anders_Celsius,What is the difference between Celsius' original temperature scale and the one we use today?,The scale was reversed by Carolus Linnaeus. ,72
+,Anders_Celsius,Where was Celsius born?,Uppsala in Sweden,73
+,Anders_Celsius,Where was Celsius born?,"Uppsala, Sweden",74
+,Anders_Celsius,Was celsius born in Uppsala  in Sweden?,yes,75
+,Anders_Celsius,Is The Celsius  crater  on the Moon named after him?,yes,76
+,Anders_Celsius,"Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astronomer?",yes,77
+,Anders_Celsius,Was Anders Celsius the first  to perform  and  publish  careful experiments  aiming at the definition  of an international  temperature  scale  on scientific grounds?,yes,78
+,Anders_Celsius,Was he professor at Uppsala University?,yes,79
+,Anders_Celsius,Is it true that he published a collection of 316 observations?,yes,80
+,Arabic_language,Can syllables begin with a vowel?,no,81
+,Arabic_language,The sociolinguistic situation of Arabic provides a prime example of what?,the linguistic phenomenon of diglossia,82
+,Arabic_language,Are calligraphers held in great esteem?,Yes,83
+,Arabic_language,Have many European languages borrowed numerous words from it?,yes,84
+,Arabic_language,"Are pronouns in Literary Arabic marked for person , number and gender ?",yes,85
+,Arabic_language,"However , are non-human plural nouns grammatically considered to be feminine singular ?",yes,86
+,Bee,What do people commonly call cleptoparasitic bees?,cuckoo bees,87
+,Bee,How did vespoid wasps evolve?,from predatory ancestors,88
+,Bee,What do humans use bees for?,honey,89
+,Bee,Where do bees live?,in colonies,90
+,Bee,When do bumblebee colonies reach peak population?,mid to late summer,91
+,Bee,Why do honey bee queens continue to lay eggs during the foraging season?,to replace daily casualties,92
+,Bee,Is a bee an insect?,yes,93
+,Bee,Are bees related to ants?,yes,94
+,Bee,Have managed populations of European honey bees experienced substantial declines?,yes,95
+,Beijing,"As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?",167,96
+,Beijing,When did Yuan Shikai die?,1916,97
+,Beijing,When did Beijing host the Olympic Games?,2008,98
+,Beijing,"In 1949, where did Communist forces enter without a fight?",Beiping,99
+,Beijing,When was the An Shi Rebellion launched?,in 755 AD,100
+,Beijing,Where does air pollution in Beijing come from?,surrounding cities and provinces,101
+,Beijing,What is the name of a university (or similar institution for imparting higher education) in Beijing?,Tsinghua University,102
+,Beijing,"Does Beijing mean ""northern capital""?",yes,103
+,Beijing,Are the caves of Dragon Bone Hill near the village of Zhoukoudian in Fangshan District?,yes,104
+,Beijing,Are hutongs disappearing?,yes,105
+,Beijing,Are famous middle  schools  in Beijing :?,Yes,106
+,Blaise_Pascal,Of whose continual poor health was the cause never precisely determined?,Blaise Pascal,107
+,Blaise_Pascal,Who was the eldest sibling?,Gilberte,108
+,Blaise_Pascal,Could Blaise Pascal move without crutches?,He could move without crutches until a paralytic attack in 1647.,109
+,Blaise_Pascal,From what did Pascal suffer throughout his life?,ill health,110
+,Blaise_Pascal,Could Blaise Pascal move without crutches?,no,111
+,Blaise_Pascal,From what did Pascal suffer throughout his life?,poor health,112
+,Blaise_Pascal,What did Pascal argue was as perfect as possible?,the procedure used in geometry,113
+,Blaise_Pascal,What did Pascal argue was as perfect as possible?,the procedure used in geometry ,114
+,Blaise_Pascal,What is the best physician?,Time,115
+,Blaise_Pascal,Was Blaise Pascal a mathematician of the first order?,yes,116
+,Blaise_Pascal,Has the name Pascal been given to the SI unit of pressure?,yes,117
+,Blaise_Pascal,"Aside from the Provincial Letters' religious influence, were they popular as a literary work?",yes,118
+,Cello,When did the first educational works appear for the cello?,18th century,119
+,Cello,What position is used to play the cello?,a gamba,120
+,Cello,Which harmonics can produce any notes above middle C? ,Artificial harmonics,121
+,Cello,Which harmonics can produce any notes above middle C? ,Artificial harmonics can produce any notes above middle C.,122
+,Cello,What is a person who plays the cello called?,cellist,123
+,Cello,What cello manufacturer should I buy from if I want to play outside?,Luis & Clark,124
+,Cello,"Who referred to the cello as “basso de viola da braccio""?",Monteverdi,125
+,Cello,"Who referred to the cello as “basso de viola da braccio""?","Monteverdi referred to the cello as ""basso de viola da braccio"".",126
+,Cello,Is the purfling just for decoration?,No,127
+,Cello,Are the z-holes used as access points to the interior of the cello? ,No,128
+,Cello,Where is the violincello held?,on the shoulder,129
+,Cello,What is used to tune a cello?,Pegs are used to tune a cello.,130
+,Cello,What position is used to play the cello?,seated,131
+,Cello,When did the first educational works appear for the cello?,the 18th century,132
+,Cello,What is used to tune a cello?,the pegs,133
+,Cello,Where is the violincello held?,The violincello is held on the shoulder.,134
+,Cello,Why is there purling on a cello?,to stop cracks from forming ****misspelled****,135
+,Cello,What are the two materials that bows are made of traditionally? ,"Traditionally, bows are made from pernambuco or brazilwood.",136
+,Cello,What does violincello mean?,"Violincello means ""little violene"".",137
+,Cello,What is cello an abbreviation of?,violoncello,138
+,Cello,Is the violin cello a bowed string instrument?,Yes,139
+,Cello,Is there cello in performances by Rihanna?,yes,140
+,Cello,Are cellos constructed with glue?,yes,141
+,Cello,Is the cello a stringed instrument?,yes,142
+,Charles-Augustin_de_Coulomb,When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?,1789,143
+,Charles-Augustin_de_Coulomb,How old was Charles-Augustin de Coulomb when he died?,1806,144
+,Charles-Augustin_de_Coulomb,How many years ago did Charles-Augustin de Coulomb die?,203,145
+,Charles-Augustin_de_Coulomb,How many years ago did he resign his appointment as intendant de eaux et fontaine ?,220,146
+,Charles-Augustin_de_Coulomb,"If Charles-Augustin de Coulomb was alive today, how old would he have been?",273,147
+,Charles-Augustin_de_Coulomb,For how many years did Charles-Augustin de Coulomb live?,70,148
+,Charles-Augustin_de_Coulomb,Where did Charles-Augustin de Coulomb die?,Charles-Augustin de Coulomb died in Paris.,149
+,Charles-Augustin_de_Coulomb,When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?,Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789.,150
+,Charles-Augustin_de_Coulomb,When was Charles-Augustin de Coulomb permanently stationed in Paris?,Charles-Augustin de Coulomb was permanently stationed in Paris in 1781.,151
+,Charles-Augustin_de_Coulomb,What is the definition of the electrostatic force of attraction and repulsion? ,Coulomb's Law,152
+,Charles-Augustin_de_Coulomb,What is the definition of the electrostatic force of attraction and repulsion? ,Coulomb's law is the definition of the electrostatic force of attraction and repulsion.,153
+,Charles-Augustin_de_Coulomb,He discovered an inverse relationship of what?,distance and electric force,154
+,Charles-Augustin_de_Coulomb,Where is Charles-Augustin de Coulomb from?,France,155
+,Charles-Augustin_de_Coulomb,When was Charles-Augustin de Coulomb born?,"June 14, 1736",156
+,Charles-Augustin_de_Coulomb,Where did the construction of Fort Bourbon take place?,Martinique ,157
+,Charles-Augustin_de_Coulomb,Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? ,No,158
+,Charles-Augustin_de_Coulomb,Did Charles-Augustin de Coulomb live to be 80 years old?,no,159
+,Charles-Augustin_de_Coulomb,Where did Charles-Augustin de Coulomb die?,"Paris, France",160
+,Charles-Augustin_de_Coulomb,What contribution did Charles-Augustin de Coulomb make to the field of geotechnical engineering?,Retaining wall design,161
+,Charles-Augustin_de_Coulomb,Where did the construction of Fort Bourbon take place?,The construction of Fort Bourbon took place in Martinique.,162
+,Charles-Augustin_de_Coulomb,Was Charles-Augustin de Coulomb a member of the National Institute?,Yes,163
+,Charles-Augustin_de_Coulomb,Was Charles-Augustin de Coulomb's father's family in Montpellier? ,Yes,164
+,Charles-Augustin_de_Coulomb,When was Charles-Augustin de Coulomb permanently stationed in Paris?,Yes,165
+,Charles-Augustin_de_Coulomb,"Was The SI  unit  of charge , the  coulomb , named after him?",yes,166
+,Charles-Augustin_de_Coulomb,"Was coulomb born in AngoulÃªme,  France ,  to a well  to do  family?",yes,167
+,Charles-Augustin_de_Coulomb,"Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellier?",Yes,168
+,Charles-Augustin_de_Coulomb,Is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?,yes,169
+,Charles-Augustin_de_Coulomb,"Was Charles Augustin  de Coulomb  ( born  June  14 ,  1736 ,  AngoulÃªme ,  France  -  died August 23 ,  1806 ,  Paris ,  France  ) a French  physicist?",yes,170
+,Charles-Augustin_de_Coulomb,Does Coulomb leave a legacy?,yes,171
+,Charles-Augustin_de_Coulomb,Did he publish an important investigation of the laws of friction?,yes,172
+,Charles-Augustin_de_Coulomb,"Was Coulomb born in AngoulÃªme, France, to a well to do family?",yes,173
+,Charles-Augustin_de_Coulomb,Was his father inspector of the Royal Fields?,yes,174
+,Charles-Augustin_de_Coulomb,Is it true that coulomb leaves a legacy as a hero?,yes,175
+,Chinese_language,One-fifth of world population speak some form of what?,Chinese,176
+,Chinese_language,Was Old Chinese wholly uninflected?,no,177
+,Chinese_language,Is mandarin spoken Chinese distinguished by its high level?,"no, it's distinguished by diversity",178
+,Chinese_language,Are The modern Chinese dialects more like a family?,yes,179
+,Chinese_language,Is it true that one-fifth of world population speak some form of Chinese?,yes,180
+,Copenhagen,What is the population of Copenhagen?,"1,153,615",181
+,Copenhagen,What is the population of Copenhagen?,"1,161,063",182
+,Copenhagen,What happened to Copenhagen between 1251 and 1255?,a bunch of things,183
+,Copenhagen,Why did German troops occupy Copenhagen?,Because it was WW2,184
+,Copenhagen,Copenhagen is the capital of what country?,Denmark,185
+,Copenhagen,Why is Copenhagen a regional hub?,Its strategic location and excellent infrastructure,186
+,Copenhagen,Why is Copenhagen a regional hub?,Its strategic location and excellent infrastructure with the largest airport in Scandinavia[6] located 14 minutes by train from the city centre,187
+,Copenhagen,Copenhagen is ranked number one worldwide for which things?,"Most Livable City in the World, ",188
+,Copenhagen,Copenhagen is ranked number one worldwide for which things?,"Most Livable City, Location Ranking Survey",189
+,Copenhagen,Is Copenhagen completely surrounded with water? ,No,190
+,Copenhagen,What transnational bridge was completed in 2000?,Oresund Bridge,191
+,Cymbal,What are the most common Cymbals?," The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China.",192
+,Cymbal,What are orchestral crash cymbals technically called?,a pair of clash cymbals,193
+,Cymbal,From what type of Cymbals can a expert player obtain an enormous dynamic range?,An expert player can obtain an enormous dynamic range from crash cymbals.,194
+,Cymbal,What is the center of a cymbal called?,Bell,195
+,Cymbal,What are orchestral crash cymbals technically called?,clash cymbals,196
+,Cymbal,What have clash cymbals traditionally been accompanied by?,Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.,197
+,Cymbal,From what type of Cymbals can a expert player obtain an enormous dynamic range?,Crash cymbals,198
+,Cymbal,"What part of the cymbal gets the best ""crash""?",Edge or rim,199
+,Cymbal,What Greek mythical creatures were depicted holding cymbals?,fauns and satyrs,200
+,Cymbal,What are the most common Cymbals?,"Hi-Hats, Crash, Splash, Ride, and China",201
+,Cymbal,What happens when the center of a Cymbal is hit?,It causes a sound which is in a higher register than the rest of the cymbal,202
+,Cymbal,What happens when the center of a Cymbal is hit?,It causes a sound which is in a higher register than the rest of the symbal.,203
+,Cymbal,Is the word cymbal derived from a Germanic word?,No,204
+,Cymbal,What is an effective way to accentuate a note?,Playing a bass drum playing an identical part is an effective way to accentuate a note.,205
+,Cymbal,What have clash cymbals traditionally been accompanied by?,The bass drum playing an identical part,206
+,Cymbal,What is an effective way to accentuate a note?,"The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly",207
+,Cymbal,What two instruments form the modern drum kit?,the cymbals and the drum,208
+,Cymbal,What is the second main orchestral use of cymbals?,The suspended cymbal,209
+,Cymbal,What is the second main orchestral use of cymbals?,The suspended cymbal is the second main orchestral use of symbals.,210
+,Cymbal,Have cymbals been used historically to suggest bacchanal?,Yes,211
+,Cymbal,Can the origins of cymbals be traced to prehistoric times?,Yes,212
+,Cymbal,Are cymbals used in moden orchestras?,Yes,213
+,Cymbal,Can the origins of cymbals be traced back to prehistoric times?,yes,214
+,Cymbal,Did the modern hi-hat evolve from clash cymbals?,yes,215
+,Dhaka,How much area does Dhaka cover?,1462.60 square kilometers,216
+,Dhaka,How many people did the 1970 Bhola cyclone kill?,"500,000",217
+,Dhaka,When is the end of the independence war of Bangladesh?,"December 16, 1971",218
+,Dhaka,Is University of Dhaka older than the Dhaka College?,No,219
+,Dhaka,Is Dhaka the capital of Bangladesh?,Yes,220
+,Dhaka,Is Dhaka located on the eastern banks of the Buriganga River?,Yes,221
+,Dhaka,Is University of Dhaka the largest public university in Dhaka?,Yes,222
+,Dhaka,Did the Mughals arrive in Dhaka?,Yes,223
+,English_language,Is english a de  jure  official  language  of Israel?,no,224
+,English_language,What is given for the number of native speakers?,No figure is given for the number of native speakers.,225
+,English_language,Is it true that semantics causes a number of false friends?,true,226
+,English_language,Is english an intonation  language?,Yes,227
+,English_language,Is the stressed  syllable called the nuclear  syllable?,yes,228
+,English_language,Does english grammar have minimal inflection?,Yes,229
+,English_language,Did old English develop into Middle English?,Yes,230
+,English_language,"Are books, magazines, and newspapers written in English available?",yes,231
+,English_language,Is the syntax of German different with different rules?,yes,232
+,English_language,"Here , are all syllables unstressed , except the syllables/words best and done , which are stressed ?",yes,233
+,English_language,"Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?",yes,234
+,English_language,"Are local variations in the formal written version of the language quite limited , being restricted largely to the spelling differences between British and American English ?",yes,235
+,Flute,When did the tin whistle first appear?,12th century.,236
+,Flute,When was a three-holed flute made from a mammoth tusk discovered?,2004.,237
+,Flute,When was the pan flute spread to other parts of Europe?,7th century BC.,238
+,Flute,What does the air stream across this hole create?,"A Bernoulli, or siphon.",239
+,Flute,What do we refer musicians who play flute?,"A flute player, a flautist or a flutist. ",240
+,Flute,What do we refer musicians who play flute?,"A flute player, a flautist, or a flutist",241
+,Flute,What are the oldest known musical instruments?,A three holed-flute made from a mammoth tusk and two flutes made from swan's bones.,242
+,Flute,What are the oldest known musical instruments?,A three-holed flute made from a mammoth tusk and two flutes made from swans' bones are among the oldest known musical instruments,243
+,Flute,When was the pan flute spread to other parts of Europe?,After the 7th century BC,244
+,Flute,When was a three-holed flute made from a mammoth tusk discovered?,In 2004,245
+,Flute,When did the tin whistle first appear?,In the 12th century,246
+,Flute,Is the flute a musical instrument?,Yes,247
+,Flute,Is it possible to open flutes at one or both ends?,Yes,248
+,Flute,Are Indian concert flutes available in standard pitches?,Yes,249
+,Flute,Is the flute a musical instrument?,Yes.,250
+,Flute,Is it possible to open flutes at one or both ends?,Yes.,251
+,Flute,Are Indian concert flutes available in standard pitches?,Yes.,252
+,Fox,How long do most foxes live?,2 to 3 years,253
+,Fox,What is caching food?,burying it for later consumption,254
+,Fox,What is caching food?,"Caching is burying it for later consumption, usually under leaves, snow, or soil.",255
+,Fox,In what country did fox hunting originate?,in the United Kingdom,256
+,Fox,How long do most foxes live?,"Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.",257
+,Fox,Are fennec foxes endangered?,no,258
+,Fox,Do foxes damage fruit on farms?,No,259
+,Fox,What is the smallest species of fox?,the Fennec Fox,260
+,Fox,What is the smallest species of fox?,The Fennec Fox is the smallest species of fox. ,261
+,Fox,In what country did fox hunting originate?,the United Kingdom,262
+,Fox,What are female foxes called?,vixens,263
+,Fox,Are foxes wary of humans?,Yes,264
+,Fox,Does the diet of foxes include reptiles?,yes,265
+,French_language,How many years ago did African people spread across 31 francophone African countries can speak French either as a first or second language?,2 years ago,266
+,French_language,"What is widely used by the Lebanese, especially for administrative purposes?",French,267
+,French_language,"In Old French, was the plural  for animal animals?",Yes,268
+,French_language,Is catalan the only  official  language  of Andorra?,Yes,269
+,French_language,"In Belgium, however, is quatre-vingts universally used?",Yes,270
+,French_language,Is french taught in many schools as a primary language along with Arabic?,Yes,271
+,French_language,Is french descendant of the Latin language?,Yes,272
+,French_language,Are there also a variety of regional languages In addition?,Yes,273
+,French_language,Is it true that france signed the European Charter for Regional Languages?,Yes,274
+,French_language,Are the prefixes en- and em- always nasalized ?,Yes,275
+,German_language,How many years ago was the Luther Bible by Martin Luther printed?,475,276
+,German_language,"In Switzerland, is ÃŸ used at all?",no,277
+,German_language,Are feminines declined in the singular?,no,278
+,German_language,Is 9 %  of the Internet  population German?,no,279
+,German_language,Does a  tz indicate that the preceding vowel is short?,no,280
+,German_language,Is german an inflected  language?,yes,281
+,German_language,Are there two common  word  orders?,yes,282
+,German_language,Is german written using the Latin  alphabet?,Yes,283
+,German_language,Was the Luther Bible by Martin Luther printed?,Yes,284
+,German_language,"Are there 622,650 speakers of German In Canada?",Yes,285
+,German_language,Are there also large populations of German ancestry In Mexico?,yes,286
+,German_language,Would BundeslÃ¤nder not accept North Rhine Westphalia and Bavaria ?,yes,287
+,German_language,"Have adverbs of time to appear in the third place in the sentence , just after the predicate ?",Yes,288
+,Giraffe,What will a giraffe use to clean off any bugs that appear on its face?,extremely long tongue ,289
+,Giraffe,What areas can giraffes inhabit?,"inhabit savannas, grasslands, or open woodlands",290
+,Giraffe,What will a giraffe use to clean off any bugs that appear on its face?,It's extremely long tongue,291
+,Giraffe,What areas can giraffes inhabit?,"savannas, grasslands, or open woodlands",292
+,Giraffe,How do giraffes defend themselves?,with a powerful kick,293
+,Giraffe,How do giraffes defend themselves?,With powerful kicks,294
+,Giraffe,Do both sexes of giraffe have horns?,Yes,295
+,Giraffe,Do giraffes give birth standing up?,Yes,296
+,Giraffe,Are giraffes hunted for their hides?,Yes,297
+,Giraffe,Do male giraffes weigh more than female giraffes?,Yes,298
+,Giraffe,Do male giraffes have larger horns than female giraffes?,Yes,299
+,Giraffe,Are male females generally taller than female giraffes?,Yes,300
+,Henri_Becquerel,Where was Henri Becquerel born?, Paris ,301
+,Henri_Becquerel,How many years ago was it when he became the third in his family to occupy the physics chair at the Musum National d`Histoire Naturelle?,117,302
+,Henri_Becquerel,"If Henri Becquerel was alive today, how old would he have been?",157,303
+,Henri_Becquerel,In what year did Henri Becquerel win the Nobel Prize in Physics?,1903,304
+,Henri_Becquerel,In what year did Henri Becquerel die?,1908,305
+,Henri_Becquerel,How old was Henri Becquerel when he died?,53,306
+,Henri_Becquerel,For how many years did Henri Becquerel live?,56,307
+,Henri_Becquerel,In what year did Henri Becquerel die?,"August 24, 1908",308
+,Henri_Becquerel,When was Henri Becquerel born?,"December 15, 1852",309
+,Henri_Becquerel,Did Henri Becquerel intentionally discover radioactivity?,He discovered it accidentally,310
+,Henri_Becquerel,What is Henri Becquerel?,Henri Becquerel was a famous physicist.,311
+,Henri_Becquerel,What does Henri Becquerel do?,Henri Becquerel was a physicist.,312
+,Henri_Becquerel,Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?,No,313
+,Henri_Becquerel,Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?,No,314
+,Henri_Becquerel,Did Henri Becquerel intentionally discover radioactivity?,No,315
+,Henri_Becquerel,Did Henri Becquerel live to be 80 years old?,no,316
+,Henri_Becquerel,Where was Henri Becquerel born?,Paris,317
+,Henri_Becquerel,Where is Henri Becquerel from?,Paris,318
+,Henri_Becquerel,Becquerel wrapped a fluorescent substance in what?,photographic plates and black material,319
+,Henri_Becquerel,What was Henri Becquerel`s profession?,physisist,320
+,Henri_Becquerel,What does Henri Becquerel do?,was a physisist,321
+,Henri_Becquerel,Was Henri Becquerel one of the discoverers of radioactivity?,Yes,322
+,Henri_Becquerel,Is the SI unit for radioactivity named after him?,Yes,323
+,Henri_Becquerel,Was Henri Becquerel a French physicist?,Yes,324
+,Henri_Becquerel,"In 1908, the year  of his death, was Becquerel elected Permanent Secretary  of the AcadÃ©mie  des  Sciences?",Yes,325
+,Henri_Becquerel,Did he become chief engineer in the Department of Bridges and Highways?,Yes,326
+,Henri_Becquerel,Did he share the Nobel Prize in Physics?,Yes,327
+,Henri_Becquerel,Is it true that Becquerel wrapped a fluorescent substance in photographic plates?,Yes,328
+,Henri_Becquerel,Is there a Becquerel crater on the Moon for radioactivity?,Yes,329
+,Henri_Becquerel,Must â€¦ One conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts ?,Yes,330
+,Isaac_Newton,When did Netwon investigate the refraction of light,1670-1672,331
+,Isaac_Newton,When was Newton's date of birth recorded?,"Christmas Day, Decembeer 25, 1642.",332
+,Isaac_Newton,When did Netwon investigate the refraction of light,From 1670 to 1672,333
+,Isaac_Newton,Who did Newton see as the master creator?,God,334
+,Isaac_Newton,Interaction with what man stirred up Newton's interest in alchemy?,Henry More,335
+,Isaac_Newton,When was Newton's date of birth recorded?,"his date of birth was recorded as Christmas Day, December 25, 1642",336
+,Isaac_Newton,What principles did Newton explain for mechanics?,"In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum",337
+,Isaac_Newton,Did Newton reject the church's doctrine of the Trinity?,Maybe,338
+,Isaac_Newton,Was Newton admitted into Havard College?,"Maybe, but it doesn't say so in the article",339
+,Isaac_Newton,Did Newton reject the church's doctrine of the Trinity?,Newton may have rejected the church's doctrine of the Trinity.,340
+,Isaac_Newton,Who did Newton see as the master creator?,Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation,341
+,Isaac_Newton,Was Newton admitted into Havard College?,No.,342
+,Isaac_Newton,Interaction with what man stirred up Newton's interest in alchemy?,"The contact with the theosophist Henry More, revived his interest in alchemy",343
+,Isaac_Newton,What principles did Newton explain for mechanics?,The principles of conservation of momentum and angular momentum,344
+,Isaac_Newton,How many laws of motion did Netwon have?,Three,345
+,Isaac_Newton,Was Newton a English physicist?,Yes,346
+,Isaac_Newton,Was Newton a English physicist?,Yes.,347
+,James_Watt,For how many years of James Watt's life was his mother alive?,17 years,348
+,James_Watt,In what year did James travel to Lodon to study instrument-making?,1753,349
+,James_Watt,James Watt ranked first among how many people in Charles Murray's survey of historiometry?,229,350
+,James_Watt,How many of James Watt's children did not live to adulthood?,3,351
+,James_Watt,What was the name of James Watt's mother?,Agnes Muirhead,352
+,James_Watt,What was the name of James Watt's mother?,Agnus Muirhead,353
+,James_Watt,James Watt was born where?,"Greenock, a seaport on the Firth of Clyde",354
+,James_Watt,James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?,steam engine,355
+,James_Watt,What is James Watt most famous for?,Steam engine.,356
+,James_Watt,James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?,The steam engine.,357
+,Japanese_language,Do most Japanese people employ politeness?,yes,358
+,Japanese_language,Is it true that Japanese borrowed a considerable number of words?,yes,359
+,Japanese_language,Are the several dialects of Kagoshima famous to speakers?,yes,360
+,Lima,What is a colectivo?,Automobiles that renders express service on some major roads of the Lima Metropolitan Area.,361
+,Lima,The Spanish Crown named Pizarro governor of what?,Hemming.,362
+,Lima,When was Lima founded?,"January 18,1535.",363
+,Lima,Where is the Park of the Reserve located?,Near the downtown area.,364
+,Lima,Has the San Lorenzo Megaport Project been completed?,No.,365
+,Lima,The ideas of the Enlightenment shaped the development of what?,"the city, Lima",366
+,Lima,How many years ago was the Lima Stock Exchange the most profitable in the world?,Three,367
+,Lima,Is Lima the capital of Peru?,Yes.,368
+,Lima,Is the Museum of Gold in Lima?,Yes.,369
+,Lima,Does Lima have volleyball venues?,Yes.,370
+,Lima,Is the National University of San Marcos in Lima?,Yes.,371
+,Lima,Is rainfall very low?,Yes.,372
+,Lima,Is lima the capital  and  largest  city  of Peru?,Yes.,373
+,Lima,"Is The GDP  per capita in Lima $ 7,600  /  ref )?",Yes.,374
+,Lima,Is it true that the ideas of the Enlightenment shaped the development of the city?,Yes.,375
+,London,What had the Anglo-Saxons created by the 600s?,a new settlement called Lundenwic,376
+,London,What had the Anglo-Saxons created by the 600s?,"By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic.",377
+,London,What countries did James VI of Scotland unite?,England and Scotland,378
+,London,What countries did James VI of Scotland unite?,James VI of Scotland united Scotland and England.,379
+,London,What city in the UK has been subjected to bouts of terrorism?,London,380
+,London,What city in the UK has been subjected to bouts of terrorism?,London has been subjected to bouts of terrorism.,381
+,London,How did civil wars affect England during the Middle Ages?,London remained relatively untouched,382
+,London,Did Caunte take control of the English throne in 101?,No,383
+,London,Over how many languages are spoken in London?,Over 300,384
+,London,Over how many languages are spoken in London?,Over 300 languages are spoken in london,385
+,London,Is London the capital of the United Kingdom?,Yes,386
+,London,Does London's population draw from a wide range of religions?,Yes,387
+,Lyre,Is lyre played in mordern Greece?,No,388
+,Lyre,In which place is lyre still played?,North-eastern parts of Africa,389
+,Lyre,Which part of the strings does the left hand touch?,The lower strings,390
+,Lyre,Are the strings of a classical lyre made of gut?,Yes,391
+,Lyre,Does a classical lyre have a sound-chest?,Yes,392
+,Lyre,Does a classical lyre have a fingerboard?,Yes,393
+,Lyre,Is a guitar played with a plectrum like a lyre?,Yes,394
+,Michael_Faraday,"How many years ago was it when Faraday wrote a letter to The Times on the subject of the foul condition of the River Thames , which resulted in an oft-reprinted cartoon in Punch?",154,395
+,Michael_Faraday,How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?,162,396
+,Michael_Faraday,"How many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the Faraday effect?",164,397
+,Michael_Faraday,"How many years ago did Faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?",189,398
+,Michael_Faraday,What did the University of Oxford grant Faraday?,a Doctor of Civil Law degree (honorary),399
+,Michael_Faraday,What do some historians of science refer to Faraday as?,best experimentalist in the history of science,400
+,Michael_Faraday,What did Faraday invent that is used almost universally in science laboratories?,Bunsen burner,401
+,Michael_Faraday,What was Michael Faraday`s profession?,chemist and physicist,402
+,Michael_Faraday,What was the Faraday effect first called?,diamagnetism,403
+,Michael_Faraday,What did the University of Oxford grant Faraday?,Doctor of Civil Law degree (honorary),404
+,Michael_Faraday,Who was a member of the Sandemanian sect of Christianity?,Faraday,405
+,Michael_Faraday,Who was made to travel outside the coach?,Faraday,406
+,Michael_Faraday,"Who died at his house at Hampton Court on August 25, 1867?",Faraday,407
+,Michael_Faraday,Who was the sponsor and mentor of Faraday?,John 'Mad Jack' Fuller,408
+,Michael_Faraday,"Who was born in Newington Butts, near present-day South London, England?",Michael Faraday,409
+,Michael_Faraday,Institution formed the foundation of what?,modern electromagnetic technology,410
+,Michael_Faraday,What was Michael Faraday`s birthplace?,Newington Butts,411
+,Michael_Faraday,Was Faraday considered a gentleman?,no,412
+,Michael_Faraday,Did Faraday receive an extensive formal education?,no,413
+,Michael_Faraday,Is it true that institution formed the foundation of electric motor technology?,no,414
+,Michael_Faraday,What did Joseph Henry likely discover?,self-induction,415
+,Michael_Faraday,When was Michael Faraday born?,"September 22, 1791",416
+,Michael_Faraday,What do some historians of science refer to Faraday as?,the best experimentalist in the history of science,417
+,Michael_Faraday,What did Faraday invent that is used almost universally in science laboratories?,the Bunsen burner,418
+,Michael_Faraday,Where did he serve two terms?,the Church of Scotland,419
+,Michael_Faraday,Was Michael Faraday an English chemist?,yes,420
+,Michael_Faraday,Was Faraday a devout Christian?,yes,421
+,Michael_Faraday,Who was a member of the Sandemanian sect of Christianity?,yes,422
+,Michael_Faraday,Did Faraday construct the ancestor of modern power generators?,yes,423
+,Michael_Faraday,Did Faraday lecture on education in 1854?,yes,424
+,Michael_Faraday,Did Faraday discover the chemical substance benzene?,yes,425
+,Michael_Faraday,Was Faraday born in England?,yes,426
+,Michael_Faraday,Does the production of chemical weapons raise an ethical issue?,yes,427
+,Michael_Faraday,Can you meet someone through attending a church?,yes,428
+,Michael_Faraday,Was education another area  of service  for Faraday?,yes,429
+,Michael_Faraday,Was faraday `s  earliest  chemical  work as an assistant  to Davy?,Yes,430
+,Michael_Faraday,Was his father member of the Sandemanian sect?,yes,431
+,Michael_Faraday,Was faraday Christian of the small Sandemanian denomination?,yes,432
+,Nassau,What was the Dead or Alive 4 fighting arena modeled after?,a Magnetic Accelerator Cannon station from Halo 2,433
+,Nassau,What is Nassau Coliseum?,"an arena in Uniondale, New York, USA",434
+,Nassau,Is Nassau Sound a body of water in Maine?,no,435
+,Nassau,Is Nassau Range the highest mountain range in the world?,no,436
+,Nassau,Who was Fort Nassau built by?,the Dutch,437
+,Nassau,Was Nassau placed in operation by Robert Fulton?,yes,438
+,Nassau,Is Nassau County named after a German town?,yes,439
+,Nassau,Does the United States have a base near Glasgow?,yes,440
+,Nikola_Tesla,When did Tesla demonstrate wireless communication (radio)?,1893,441
+,Nikola_Tesla,What type of current did Tesla invent?,AC,442
+,Nikola_Tesla,Where did Tesla study electrical engineering?,Austrian Polytechnic in Graz,443
+,Nikola_Tesla,"Who was the victor of the ""War of Currents""?",Nikola Tesla,444
+,Nikola_Tesla,Was Tesla born in the United States?,No,445
+,Nikola_Tesla,"Who was the victor of the ""War of Currents""?",Tesla,446
+,Nikola_Tesla,Where did Tesla study electrical engineering?,the Austrian Polytechnic in Graz ,447
+,Nikola_Tesla,What is the SI unit measuring magnetic flux density or magnetic induction?,the tesla,448
+,Nikola_Tesla,Did Tesla study electrical engineering?,Yes,449
+,Nikola_Tesla,Was Tesla hired by Edison?,Yes,450
+,Nikola_Tesla,Was Tesla regarded as a mad scientist?,Yes,451
+,Ottawa,What is Ottawa's population?,"1,190,982",452
+,Ottawa,"Based on the average, in what year will the next small tremor occur in Ottawa?",2009,453
+,Ottawa,What was Ottawa's name in 1850?,Bytown,454
+,Ottawa,What are Carleton University's athletic teams called?,Carleton Ravens,455
+,Ottawa,How many townships are in Ottawa?,eleven,456
+,Ottawa,What's the main highway in Ottawa?,"Highway 417, The Queensway",457
+,Ottawa,Where were immigrants from in the 1800s?,Ireland,458
+,Ottawa,Where were immigrants from in the 1800s?,Irish,459
+,Ottawa,Who is the mayor of Ottawa?,Larry O'Brien,460
+,Ottawa,What are Ottawa's primary industries?,Logging and lumber,461
+,Ottawa,What's the main highway in Ottawa?,provinical Highway 417,462
+,Ottawa,What is Ottawa's junior ice hockey team?,the Ottawa 67's,463
+,Ottawa,What is Ottawa's major league hockey team?,the Ottawa Senators,464
+,Ottawa,Is Ottawa the capital of Canada?,Yes,465
+,Ottawa,Does Ottawa sit on the Ottowa River?,Yes,466
+,Ottawa,Do small tremors occur in Ottawa?,Yes,467
+,Ottawa,Is Ottawa colder than Moscow in January?,Yes,468
+,Ottawa,Is Ottawa on a river?,yes,469
+,Ottawa,Does it snow in Ottawa?,yes,470
+,Ottawa,Was there a cholera outbreak in 1832?,yes,471
+,Ottawa,Are there also discussions of having OC Transpo Light Rail and STO Transitway networks linking on the Gatineau side of the Ottawa River ?,Yes.,472
+,Otter,What is an otter's den called?,A holt,473
+,Otter,Where do sea otters live?,Beside water,474
+,Otter,What is an otter's den called?,holt,475
+,Otter,Do sea otters have a layer of fat like whales?,No,476
+,Otter,Where do sea otters live?,Pacific coast of North America,477
+,Otter,Why are otters vulnerable to prey depletion?,Prey-dependence,478
+,Otter,Why are otters vulnerable to prey depletion?,prey-dependency,479
+,Otter,Does the giant otter live in South America?,Yes,480
+,Otter,Do otters have claws?,Yes,481
+,Otter,Do otters eat fish?,Yes,482
+,Otter,Do otters enjoy playing?,Yes,483
+,Otter,Is the otter in the same family as the badger?,Yes,484
+,Santiago,What is the Order of Santiago?,a Spanish knightly order,485
+,Santiago,What notable people have been named Santiago?,"Benito Santiago, Hugo Santiago, Joey Santiago, Liliana Santiago, Rafael Santiago Maria, Santiago Caballero, Santiago Cabrera; James, son of Zebedee",486
+,Santiago,What notable people have been named Santiago?,"Benito, Hugo, and others",487
+,Santiago,What fictional stories include a main character named Santiago?,"Gears of War, Rainbow Six: Covert Operations Essentials, Death Foretold by Gabriel GarcÃ­a MÃ¡rquez, Ernest Hemingway's The Old Man and the Sea, the television series Babylon 5, Anne Rice's novel Interview with the Vampire, aulo Coelho's The Alchemist (novel), the television show Friday Night Lights",488
+,Santiago,What fictional stories include a main character named Santiago?,"Interview with the Vampire, The Alchemist, and others",489
+,Santiago,What is the origin of the name Santiago?,"sanit + iago, James",490
+,Santiago,What is Santiago?,"Santiago is Spanish for St. James. It is also the name of places in Argentina, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Cuba, the Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, the Philippines, Portugal, Spain, the United States, Venezuela, and the Amazon. It is also the name of a baseball catcher, a film director, a guitarist, an economist, a footballer, a DJ, an actor, and James, son of Zebedee. Fictional people with this name include a character from Gears of War, a character from Chronicle of a Death Foretold, a character in Old Man and the Sea, a character in Babylon 5, a character in Interview with the Vampire, the main character of The Alchemist, and a character on Friday Night Lights. There has also been a battle of Santiago de Cuba, a couple of bands named Santiago, an Order of Santiago, and ""Santiago"" as a shortened form of the Reconquista battle cry.",491
+,Santiago,What is the origin of the name Santiago?,Spanish for St. James,492
+,Santiago,Who has released an album or song named Santiago?,The Chieftains and Loreena McKennitt,493
+,Santiago,Who has released an album or song named Santiago?,The Chieftains; Loreena McKennitt,494
+,Santiago,Are there any cities named Santiago in the United States?,yes,495
+,Santiago,Was Santiago the name of an indie/punk band?,yes,496
+,Santiago,Is Santiago a name in Spanish?,yes,497
+,Santiago,Is Santiago the national capital of a country?,Yes,498
+,Santiago,"Is santiago Spanish for St. James  ( from santo ,  saint  +  iago ,  James  )?",Yes,499
+,Santiago,Is santiago Spanish for St. James?,Yes,500
+,Swahili_language,Has swahili no diphthongs?,No,501
+,Swahili_language,Is a third  prefix the object  prefix?,Yes,502
+,Swahili_language,Is      / ref Swahili unusual among sub-Saharan languages?,Yes,503
+,Swahili_language,"Are vowels never reduced , regardless of stress ?",Yes,504
+,Swan,What is the Irish legend of the Children of Lir about?,a stepmother transforming her children into swans for 900 years,505
+,Swan,What is the Polish word for swan?,ÅabÄ™dÅº,506
+,Swan,What is the name of an adult female?,An adult female swan is called a pen.,507
+,Swan,What is the color of the Australian Black Swan?,Completely black except for the white feathers on its wings,508
+,Swan,What is the color of the Australian Black Swan?,Completely black except for the white flight feathers on its wings.,509
+,Swan,What are young swans known as?,cygnets,510
+,Swan,What is the name of young swans?,Cygnets,511
+,Swan,What is the name of young swans?,Cygnets.,512
+,Swan,What is the Sanskrit word for swan?,hamsa or hansa,513
+,Swan,Is the Trumpeter Swan the largest bird?,It is the largest bird of North America.,514
+,Swan,"Where is the word ""swan"" derived from?",Old English swan.,515
+,Swan,What is the name of an adult female?,Pen.,516
+,Swan,Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?,Swan Lake,517
+,Swan,"Which album was the song ""The Bonny Swans"" from?",The Mask and Mirror,518
+,Swan,"Where is the word ""swan"" derived from?","The Old English word ""swan,"" derived from the Indo-European root ""*swen"", meaning to sound or to sing",519
+,Swan,Is the Trumpeter Swan the largest bird?,The Trumpeter Swan is the largest bird of North America,520
+,Swan,What is the best known story about a swan?,The Ugly Duckling,521
+,Swan,What is the best known story about a swan?,The Ugly Duckling fable.,522
+,Swan,Does the Australian Black Swan have white feathers on its wings?,yes,523
+,Swan,Do swans belong to the family Anatidae?,yes,524
+,Swan,Can black swans swim with only one leg?,yes,525
+,Swan,Are swan birds of the family Anatidae?,Yes,526
+,Swan,Do swans feature strongly in mythology?,Yes,527
+,Swan,Are swans and ducks birds of the same family?,Yes,528
+,Swan,Are swan birds of the family Anatidae?,Yes.,529
+,Swan,Do swans feature strongly in mythology?,Yes.,530
+,Swan,Are swans and ducks birds of the same family?,Yes.,531
+,Tiger,About how many square kilometers would be needed to house 3 female tigers?,60,532
+,Tiger,About how many square kilometers would be needed to house 3 female tigers?,60 square kilometers,533
+,Tiger,What would a tiger do when seized by a crocodile?,A tiger will strike at the reptile's eyes with its paws.,534
+,Tiger,What are the typical features of a tiger country?,"Good cover, close to water, and plenty of prey ",535
+,Tiger,What do tigers' powerfully built legs and shoulders allow tigers to do?,have the ability to pull down prey substantially heavier than themselves,536
+,Tiger,What are the typical features of a tiger country?,"It will always have good cover, it will always be close to water and plenty of prey.",537
+,Tiger,Is the Tiger a member of the Felidar family?,No,538
+,Tiger,Are panthers a type of tiger?,No,539
+,Tiger,Is the Tiger a member of the Felidar family?,No.,540
+,Tiger,Are panthers a type of tiger?,No.,541
+,Tiger,What would a tiger do when seized by a crocodile?,strike at the reptile's eyes with its paws,542
+,Tiger,What do tigers' powerfully built legs and shoulders allow tigers to do?,They have the ability to pull down prey substantially heavier than themselves.,543
+,Tiger,Are tigers solitary animals?,Yes,544
+,Tiger,Would it be common for tigers to mate in January?,Yes,545
+,Tiger,"Would a tiger be likely to feedon smaller animals, such as mice?",Yes,546
+,Tiger,Are tigers solitary animals?,Yes.,547
+,Tiger,Would it be common for tigers to mate in January?,Yes.,548
+,Trumpet,How does a trumpet produce sound?,By blowing air through closed lips.,549
+,Trumpet,Did the predecessors to trumpets have valves?,No,550
+,Trumpet,Is the bass trumpet the smallest trumpet?,No,551
+,Trumpet,Does a trumpet have a mellower tone than a cornet?,No,552
+,Trumpet,What musical styles is the trumpet used in?,"Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.",553
+,Trumpet,How do trumpets compensate for wolf tones?,Somce trumpetes have a slide mechanism built in to compensate.,554
+,Trumpet,What is the most common type of trumpet?,The B trumpet.,555
+,Trumpet,Are trumpets constructed of brass?,Yes,556
+,Trumpet,Did Miles Davis play the trumpet?,Yes,557
+,Turtle,Approximately how many species of Testudines are alive today?,300,558
+,Turtle,What was the largest ever chelonian?,Archelon ischyros,559
+,Turtle,Where is harvesting wild turtles legal?,Florida,560
+,Turtle,Can turtles spend all their time underwater?,no,561
+,Turtle,Is the name of the upper shell of a turtle called the plastron?,No.,562
+,Turtle,Is turtle soup considered a delicacy?,No.,563
+,Turtle,Where are turtle eggs layed?,on land,564
+,Turtle,Where are the only surviving giant tortoises?,Seychelles and Galápagos Islands,565
+,Turtle,Do scutes fall away from the turtle's shell?,Some of the scutes eventually fall away from the shell.,566
+,Turtle,What was the largest ever chelonian?,The great letherback sea tutrtle,567
+,Turtle,Where are the only surviving giant tortoises?,They are on the Seychelles and GalÃ¡pagos Islands.,568
+,Turtle,Where are turtle eggs layed?,Turtles lay eggs on land.,569
+,Turtle,How do turtles chew food?,Turtles use their jaws to cut and chew food,570
+,Turtle,How do turtles chew food?,Turtles use their jaws to cut and chew food.,571
+,Turtle,How many groups are turtles broken down into?,Two,572
+,Turtle,Do Terrestrial tortoises have short feet?,yes,573
+,Turtle,Are tortoises land based?,yes,574
+,Turtle,Is turtle soup considered a delicacy?,yes,575
+,Turtle,Are Testudines the crown group of the superorder Chelonia?,yes,576
+,Turtle,Do turtles breathe air?,yes,577
+,Turtle,Are harvesting wild turtles legal anywhere?,yes,578
+,Turtle,Is there a way to approximate the age of a turtle?,yes,579
+,Turtle,Do scutes fall away from the turtle's shell?,"yes, eventually",580
+,Turtle,Do Terrestrial tortoises have short feet?,Yes.,581
+,Turtle,Are tortoises land based?,Yes.,582
+,Violin,How many strings does a violin usually have?,4,583
+,Violin,What is someone who makes violins called?,a luthier,584
+,Violin,What is someone who makes violins called?,"a luthier, or simply a violin maker",585
+,Violin,What are violins made of?,different types of wood,586
+,Violin,How many strings does a violin usually have?,four,587
+,Violin,Whate is the usual pitch range of a violin?,from G3 to C8,588
+,Violin,What are violins made of?,"maple, ebony, sheep gut",589
+,Violin,Are violins a single size?,no,590
+,Violin,How long have people been making instruments like violins?,since 1555,591
+,Violin,How long have people been making instruments like violins?,since ancient times,592
+,Violin,"Where does the word ""violin"" come from?",the Middle Latin word vitula,593
+,Violin,"Where does the word ""violin"" come from?","the Middle Latin word vitula, meaning ""stringed instrument""",594
+,Violin,Are violinists and fiddlers the same thing?,Yes,595
+,Violin,Are violas and cellos in the same family of instruments as violins?,yes,596
+,Xylophone,What is the earliest historical reference in Europe?,Arnold Schlick's Spiegel der Orgelmacher und Organisten,597
+,Xylophone,How are western-style xylophones characterised?,"by a bright, sharp tone and high register",598
+,Xylophone,Where did the xylophone originate?,Indonesia,599
+,Xylophone,Were ancient mallets made of copper?,no,600
+,Xylophone,Can a short bar follow a long bar?,no,601
+,Xylophone,Are xylophone bars made of rosewood?,yes,602
+,Xylophone,Is the xylophone a precursor to the vibraphone?,yes,603
+,Xylophone,Can a xylophone be 3 octaves?,yes,604
+,Xylophone,Did vibraphones exist in 1930?,yes,605
+,,,,606
+,,,,607
+,,,,608
+,,,,609
+,,,,610
+,,,,611
+,,,,612
+,,,,613
+,,,,614
+,,,,615
+,,,,616
+,,,,617
+,,,,618
+,,,,619
+,,,,620
+,,,,621
+,,,,622
+,,,,623
+,,,,624
+,,,,625
+,,,,626
+,,,,627
+,,,,628
+,,,,629
+,,,,630
+,,,,631
+,,,,632
+,,,,633
+,,,,634
+,,,,635
+,,,,636
+,,,,637
+,,,,638
+,,,,639
+,,,,640
+,,,,641
+,,,,642
+,,,,643
+,,,,644
+,,,,645
+,,,,646
+,,,,647
+,,,,648
+,,,,649
+,,,,650
+,,,,651
+,,,,652
+,,,,653
+,,,,654
+,,,,655
+,,,,656
+,,,,657
+,,,,658
+,,,,659
+,,,,660
+,,,,661
+,,,,662
+,,,,663
+,,,,664
+,,,,665
+,,,,666
+,,,,667
+,,,,668
+,,,,669
+,,,,670
+,,,,671
+,,,,672
+,,,,673
+,,,,674
+,,,,675
+,,,,676
+,,,,677
+,,,,678
+,,,,679
+,,,,680
+,,,,681
+,,,,682
+,,,,683
+,,,,684
+,,,,685
+,,,,686
+,,,,687
+,,,,688
+,,,,689
+,,,,690
+,,,,691
+,,,,692
+,,,,693
+,,,,694
+,,,,695
+,,,,696
+,,,,697
+,,,,698
+,,,,699
+,,,,700
+,,,,701
+,,,,702
+,,,,703
+,,,,704
+,,,,705
+,,,,706
+,,,,707
+,,,,708
+,,,,709
+,,,,710
+,,,,711
+,,,,712
+,,,,713
+,,,,714
+,,,,715
+,,,,716
+,,,,717
+,,,,718
+,,,,719
+,,,,720
+,,,,721
+,,,,722

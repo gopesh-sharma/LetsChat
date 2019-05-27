@@ -2,24 +2,33 @@ const fs = require('fs');
 var csv = require('csv-parser'); 
 const Discordie = require('discordie');
 const Events = Discordie.Events;
-const client = new Discordie();
+const client = new Discordie({
+    autoReconnect : true
+});
 const { NlpManager } = require('node-nlp');
 const manager = new NlpManager({ languages: ['en'] });
 const trainnlp = require('./data/train-nlp');
 const threshold = 0.5;
-const modelPath = 'model/model.nlp';
-const trainedDataPath = 'data/qatraining1.csv';
-const unmatchedFile = 'unmatched/data.txt';
+const path = require("path");
+const modelPath = path.resolve('./model/model.nlp');
+const trainedDataPath1 = path.resolve('./data/qatraining1.csv');
+const trainedDataPath2 = path.resolve('./data/qatraining2.csv');
+const trainedDataPath3 = path.resolve('./data/qatraining3.csv');
+const unmatchedFile = path.resolve('./unmatched/data.txt');
+console.log(trainnlp);
 
 require('dotenv').config();
 
 const token = process.env.DISCORD_API_TOKEN;
-
 client.connect({
     token: token
 });
 client.Dispatcher.on(Events.GATEWAY_READY, async e => {
-    let jsonData = await parseCSV(trainedDataPath);
+    console.log('Starting');
+    let jsonData = await parseCSV(trainedDataPath1);
+    let jsonData1 = await parseCSV(trainedDataPath2);
+    let jsonData2 = await parseCSV(trainedDataPath3);
+    jsonData = jsonData.concat(jsonData1).concat(jsonData2);
     trainData(jsonData);
     console.log('Connected as: ' + client.User.username);
 });
@@ -39,8 +48,7 @@ async function parseCSV(path) {
         readStream.pipe(csv())
             .on('data', (data) => results.push(data))
             .on('end', () => {
-                var rows = JSON.parse(JSON.stringify(results));
-                resolve(rows);
+                resolve(results);
             })
             .on('error',() => reject);
     });
@@ -61,8 +69,10 @@ function trainData(jsonData) {
 
 async function train(jsonData) {
     jsonData.forEach(function(obj) { 
-        manager.addDocument('en', obj.question.toLowerCase(), obj.intent + obj.counter);
-        manager.addAnswer('en', obj.intent + obj.counter, obj.answer.toLowerCase());
+        if(obj.question !== undefined) {
+            manager.addDocument('en', obj.question.toLowerCase(), obj.intent + obj.counter);
+            manager.addAnswer('en', obj.intent + obj.counter, obj.answer.toLowerCase());
+        }
     });
     await trainnlp(manager);
     console.log('Awaiting for training')
@@ -76,8 +86,7 @@ async function train(jsonData) {
 async function handleMessage(e, message) {
   const response = await manager.process('en', message); 
   const answer = response.score > threshold && response.answer ? response.answer: "Sorry, I don't know what do you mean";
-  console.log(response);
-  const unmatcheResponse = response.score < threshold ? `Message : ${message} - response : ${answer}\n` : '';
+  const unmatcheResponse = response.score < threshold ? `\nMessage : ${message} - response : ${answer}\n` : '';
   fs.appendFile(unmatchedFile, unmatcheResponse, function () { });
   e.message.channel.sendMessage(answer);
 }
